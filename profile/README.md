@@ -1,16 +1,16 @@
 # Noverna
 
-**Redefining the future of FiveM development — secure, transparent, and built to last.**
+**Redefining the future of FiveM development - secure, transparent, and built to last.**
 
 Noverna is a collective of developers focused on rebuilding the foundation of FiveM scripting.  
-We’re creating a framework that eliminates unsafe practices, backdoors, and performance issues — replacing them with stability, openness, and modern engineering standards.
+We’re creating a framework that eliminates unsafe practices, backdoors, and performance issues - replacing them with stability, openness, and modern engineering standards.
 
 ---
 
 ## Our Mission
 
 For too long, the FiveM community has relied on scripts that are unsafe, poorly written, and often closed off from real transparency.  
-Noverna’s mission is simple: **to make FiveM development secure again** — for developers, servers, and players alike.
+Noverna’s mission is simple: **to make FiveM development secure again** - for developers, servers, and players alike.
 
 We believe that true progress comes from **clean code, open collaboration, and uncompromising quality**.
 
@@ -18,10 +18,10 @@ We believe that true progress comes from **clean code, open collaboration, and u
 
 ## Core Principles
 
-- **Security first** — zero tolerance for backdoors, leaks, or obfuscation.  
-- **Transparency by design** — every line of code is public, auditable, and open for review.  
-- **Performance and reliability** — built with efficiency and long-term stability in mind.  
-- **Freedom for developers** — modular APIs, clean architecture, and modern tooling.  
+- **Security first** - zero tolerance for backdoors, leaks, or obfuscation.  
+- **Transparency by design** - every line of code is public, auditable, and open for review.  
+- **Performance and reliability** - built with efficiency and long-term stability in mind.  
+- **Freedom for developers** - modular APIs, clean architecture, and modern tooling.  
 
 ---
 
@@ -35,7 +35,7 @@ Noverna is developing a next-generation framework for FiveM, featuring:
 - Built-in dependency and lifecycle management  
 - A focus on developer experience, maintainability, and scalability  
 
-This isn’t just another framework — it’s a **foundation for the next era** of FiveM development.
+This isn’t just another framework - it’s a **foundation for the next era** of FiveM development.
 
 ---
 
@@ -60,5 +60,5 @@ Each repository contains specific license details.
 ## Contact
 
 For questions, proposals, or collaboration requests, visit  
-**[github.com/Noverna](https://github.com/project-noverna)**  
+**[github.com/project-noverna](https://github.com/project-noverna)**  
 or reach out via our organization’s discussions page.
