@@ -31,7 +31,7 @@ Noverna is developing a next-generation framework for FiveM, featuring:
 
 - A modular and secure core  
 - Sandboxed runtime for isolated resource execution  
-- We mainly going to use Lua, as Main Programming Language, but for Modules like Database, or Caching we will use TypeScript. 
+- We mainly going to use TypeScript, as main language. 
 - Built-in dependency and lifecycle management  
 - A focus on developer experience, maintainability, and scalability  
 
